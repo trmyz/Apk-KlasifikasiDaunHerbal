@@ -1,6 +1,6 @@
 # Aplikasi Klasifikasi Daun Herbal
 
-Aplikasi untuk mengklasifikasikan 10 jenis daun herbal berdasarkan dataset menggunakan model MobilenNetV2
+Aplikasi untuk mengklasifikasikan 10 jenis daun herbal berdasarkan dataset menggunakan model MobileNetV2
 
 ## Teknologi yang Digunakan
 - **Model / Training:** Google Colab (`.ipynb`)
