@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="Theme.KlasifikasiCitra" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorPrimaryDark">#1B5E20</item>
+        <item name="colorAccent">#66BB6A</item>
+    </style>
+
+    <style name="Theme.KlasifikasiCitra.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.KlasifikasiCitra.Cropper" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorPrimaryDark">#1B5E20</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="ShapePreviewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">22dp</item>
+    </style>
+
+</resources>
